@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+//testgit
 func isPrime(number int) bool {
 	isPrime := true
 	if number >= 0 {
