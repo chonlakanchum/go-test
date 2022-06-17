@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-//testgit2
+//testgit3
 func isPrime(number int) bool {
 	isPrime := true
 	if number >= 0 {
